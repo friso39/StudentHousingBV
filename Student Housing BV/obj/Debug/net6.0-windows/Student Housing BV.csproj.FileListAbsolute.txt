@@ -1,0 +1,18 @@
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student_Housing_BV.Login.resources
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.csproj.GenerateResource.cache
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.AssemblyInfoInputs.cache
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.AssemblyInfo.cs
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\bin\Debug\net6.0-windows\Student Housing BV.exe
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\bin\Debug\net6.0-windows\Student Housing BV.deps.json
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\bin\Debug\net6.0-windows\Student Housing BV.runtimeconfig.json
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\bin\Debug\net6.0-windows\Student Housing BV.dll
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\bin\Debug\net6.0-windows\Student Housing BV.pdb
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.dll
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\refint\Student Housing BV.dll
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.pdb
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student Housing BV.genruntimeconfig.cache
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\ref\Student Housing BV.dll
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student_Housing_BV.AdminView.resources
+C:\Users\Aaron\OneDrive\Documents\Fontys Y1-P2\Software\Student Housing BV\Student Housing BV\obj\Debug\net6.0-windows\Student_Housing_BV.StudentView.resources
